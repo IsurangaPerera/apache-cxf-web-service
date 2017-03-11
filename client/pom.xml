@@ -15,7 +15,7 @@
 
    <dependencies>
       <dependency>
-         <groupId>org.gmazza.blog-samples.web-service-tutorial</groupId>
+         <groupId>com.wordpress.isurangaperera.web-service-tutorial</groupId>
          <artifactId>web-service-tutorial-service</artifactId>
          <!-- Classifier below used with Maven Assembly Plugin to
               specify subset of above artifact needed.
